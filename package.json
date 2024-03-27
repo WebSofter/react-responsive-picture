@@ -37,11 +37,7 @@
         "responsive",
         "react"
     ],
-    "author": {
-        "name": "David Amirkhanov",
-        "email": "mail.websofter@gmail.com",
-        "url": "https://wsofter.com"
-    },
+    "author": "David Amirkhanov <mail.websofter@gmail.com> (https://wsofter.com)",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/WebSofter/react-responsive-picture/issues"
@@ -87,5 +83,9 @@
         "can-use-dom": "0.1.0",
         "cxs": "6.2.0",
         "picturefill": "3.0.3"
+    },
+    "directories": {
+        "example": "examples",
+        "lib": "lib"
     }
 }
