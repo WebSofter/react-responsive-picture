@@ -1,7 +1,7 @@
 {
-    "name": "react-responsive-picture",
+    "name": "@wsofter/react-responsive-picture",
     "version": "3.2.3",
-    "description": "A future-proof responsive image component that supports latest Picture specification",
+    "description": "A future-proof responsive image component that supports latest Picture specification. UPD for React 17",
     "main": "lib/index.js",
     "module": "es/index.js",
     "types": "lib/index.d.ts",
@@ -23,7 +23,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/braposo/react-responsive-picture.git"
+        "url": "git+https://github.com/WebSofter/react-responsive-picture.git"
     },
     "files": [
         "es",
@@ -38,15 +38,15 @@
         "react"
     ],
     "author": {
-        "name": "Bernardo Raposo",
-        "email": "hi@bernardoraposo.com",
-        "url": "http://bernardoraposo.com"
+        "name": "David Amirkhanov",
+        "email": "mail.websofter@gmail.com",
+        "url": "https://wsofter.com"
     },
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/braposo/react-responsive-picture/issues"
+        "url": "https://github.com/WebSofter/react-responsive-picture/issues"
     },
-    "homepage": "https://github.com/braposo/react-responsive-picture#readme",
+    "homepage": "https://github.com/WebSofter/react-responsive-picture#readme",
     "devDependencies": {
         "@babel/cli": "^7.6.0",
         "@babel/core": "^7.6.0",
