@@ -1,6 +1,6 @@
 {
     "name": "react-responsive-picture",
-    "version": "3.2.2",
+    "version": "3.2.3",
     "description": "A future-proof responsive image component that supports latest Picture specification",
     "main": "lib/index.js",
     "module": "es/index.js",
@@ -80,8 +80,8 @@
         "webpack-cli": "^3.3.8"
     },
     "peerDependencies": {
-        "react": "^15.0.1 || ^16.0.1",
-        "react-dom": "^15.0.1 || ^16.0.1"
+        "react": "^15.0.1 || ^16.0.1" || ^17.0.0",
+        "react-dom": "^15.0.1 || ^16.0.1 || ^17.0.0"
     },
     "dependencies": {
         "can-use-dom": "0.1.0",
